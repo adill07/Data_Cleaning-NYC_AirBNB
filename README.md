@@ -3,7 +3,8 @@
 ## 📌 Project Overview  
 This project focuses on preparing the **NYC Airbnb dataset** for meaningful analysis.  
 The raw dataset contained challenges such as missing values, duplicates, inconsistent formats, and outliers.  
-Through systematic data cleaning and preprocessing steps, the dataset was transformed into a **structured, reliable, and analysis-ready format**.  
+Through systematic data cleaning and preprocessing steps, the dataset was transformed into a **structured, reliable, and analysis-ready format**.
+Along with cleaning, exploratory data analysis (EDA) was performed to uncover patterns and insights.
 
 ---
 
